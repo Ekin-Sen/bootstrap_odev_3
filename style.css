@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(241, 240, 237);
+}
+
+.container {
+    max-width: 90%;
+}
+
+.sml {
+    font-size: 0.9em;
+}
+
+.messenger {
+    width: 300px;
+    height: 50px;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.foot {
+    font-size: 0.7em;
+}
